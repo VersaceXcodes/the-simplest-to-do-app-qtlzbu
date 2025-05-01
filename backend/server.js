@@ -73,10 +73,7 @@ app.get('/tasks', async (req, res) => {
   }
 });
 
-// Start the server
-app.listen(3000, '0.0.0.0', () => {
-  console.log(`Server running on port 3000 and listening on 0.0.0.0`);
-});/*
+
   POST /tasks
   ------------
   This endpoint creates a new task.
@@ -196,10 +193,7 @@ app.delete('/tasks/:task_id', async (req, res) => {
   }
 });
 
-// Retrieve the server port from environment variables or default to 1337
-const PORT = process.env.PORT || 1337;
-
-// Start the Express server
-app.listen(PORT, () => {
-  console.log(`Server listening on port ${PORT}`);
-});
+// Start the server
+app.listen(3000, '0.0.0.0', () => {
+  console.log(`Server running on port 3000 and listening on 0.0.0.0`);
+});/*
