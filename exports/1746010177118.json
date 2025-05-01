@@ -1,0 +1,19 @@
+{
+  "timestamp": 1746010177118,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_Header",
+      "version": "1746010176691"
+    }
+  },
+  "projectId": "the-simplest-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/the-simplest-to-do-app/vitereact/src/components/views/GV_Header.tsx",
+      "type": "text",
+      "size": 712,
+      "dependencies": false
+    }
+  ]
+}

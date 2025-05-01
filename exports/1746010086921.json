@@ -1,0 +1,19 @@
+{
+  "timestamp": 1746010086921,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_Landing",
+      "version": "1746010086363"
+    }
+  },
+  "projectId": "the-simplest-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/the-simplest-to-do-app/vitereact/src/components/views/UV_Landing.tsx",
+      "type": "text",
+      "size": 9777,
+      "dependencies": false
+    }
+  ]
+}

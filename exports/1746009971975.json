@@ -1,0 +1,19 @@
+{
+  "timestamp": 1746009971975,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "GV_Notification",
+      "version": "1746009867932"
+    }
+  },
+  "projectId": "the-simplest-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/the-simplest-to-do-app/vitereact/src/components/views/GV_Notification.tsx",
+      "type": "text",
+      "size": 1748,
+      "dependencies": false
+    }
+  ]
+}

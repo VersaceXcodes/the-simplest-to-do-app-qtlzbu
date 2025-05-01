@@ -1,0 +1,15 @@
+{
+  "timestamp": 1746009645136,
+  "operation": {
+    "id": "backend:server:main"
+  },
+  "projectId": "the-simplest-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/the-simplest-to-do-app/backend/server.js",
+      "type": "text",
+      "size": 6547,
+      "dependencies": false
+    }
+  ]
+}
