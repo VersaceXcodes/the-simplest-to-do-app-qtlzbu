@@ -74,14 +74,7 @@ app.get('/tasks', async (req, res) => {
 });
 
 
-  POST /tasks
-  ------------
-  This endpoint creates a new task.
-  - It expects a JSON body containing "description" (required) and an optional "user_id".
-  - The endpoint validates the input to avoid empty task entries.
-  - A unique task_id is generated using uuid.
-  - The task is stored with a default status of "Pending" along with a created_at timestamp.
-*/
+
 app.post('/tasks', async (req, res) => {
   try {
     const { description, user_id } = req.body;
